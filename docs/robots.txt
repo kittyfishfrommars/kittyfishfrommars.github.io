@@ -1,0 +1,5 @@
+# 01 - allow
+User-agent: *
+Disallow: /README.html
+Disallow: /assets
+Allow: /
