@@ -1,5 +1,6 @@
-# 01 - allow
+# indexing directives
 User-agent: *
 Disallow: /README.html
 Disallow: /assets
+Disallow: /grunt-email-workflow/images
 Allow: /
