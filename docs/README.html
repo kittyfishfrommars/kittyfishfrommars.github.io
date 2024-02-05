@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>kittyfish from mars</title>
+  <title>Kittyfish from Mars</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="UTF-8">
   <style>
@@ -19,7 +19,8 @@
       }
 
       body {
-        background: #c903bc;
+        /* background-color: #c903bc; */
+        background-color: #26626c;
         color: #fff;
         font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
         font-size: 135%;
@@ -97,13 +98,33 @@
         height: auto; 
         display: inline-block;
         margin-top: -5rem;
+        /* animation: float 10s infinite alternate ease-in-out; */
       }
 
       .logo svg {
         width: 40%;
         color: #fff;
         fill: rgba(254, 178, 0);
-        animation: fade 6s infinite alternate ease-in;
+        animation: fade 5s infinite alternate ease-in-out;
+      }
+
+      /*
+       .logo:hover svg {
+        transform: translate(0, -10px);
+        transition: transform 0.6s ease-out;
+      }
+      */
+
+      @keyframes float {
+        0% {
+          transform: translate(0px, 0px);
+        }
+        50% {
+          transform: translate(-5px, 8px) rotate(-1deg);
+        }
+        100% {
+          transform: translate(5px, -1px) rotate(3deg);
+        }
       }
 
       @keyframes fade {
@@ -111,7 +132,8 @@
           fill: rgba(254, 178, 0, 1);
         }
         to {
-          fill: rgba(233, 113, 16, 1);
+          /* fill: rgba(233, 113, 16, 1); */
+          fill: rgb(233, 16, 229);;
         }
       }
 
@@ -194,7 +216,7 @@
 
     <div class="content invert mb-20">
       
-        <p class="">kittyfishfrommars.github.io</p>
+        <p class=""><a href="https://github.com/kittyfishfrommars">github.com/kittyfishfrommars</a></p>
      <!--
         <a href="/">
           <h2 class="">kittyfishfrommars.github.io</h2>
