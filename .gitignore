@@ -19,14 +19,15 @@ security.yaml
 
 # ignore temporary folders and subfolders
 logs/
-dist/
 /cache/
 /tmp/
 /images/
 /user/data/
 
 # track this folder (i.e. do NOT ignore it)
-user/data/*.*/
+!user/data/*.*/
+!dist
+!vendor
 
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
