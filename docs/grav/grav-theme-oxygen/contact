@@ -1,0 +1,229 @@
+<!-- Base -->
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Contact</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+	<!-- Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="GravCMS" />
+<meta name="description" content="Grav is an easy to use, yet powerful, open source flat-file CMS" />
+
+	<link rel="icon" type="image/png" href="user/themes/oxygen/images/favicon.png?fp=1707143434165" />
+	<link rel="canonical" href="contact" />
+
+									
+		<link href="user/themes/oxygen/fonts/opensans/opensans.css?fp=1707143434165" type="text/css" rel="stylesheet">
+<link href="user/themes/oxygen/dist/css/main.css?fp=1707143434165" type="text/css" rel="stylesheet">
+
+				
+				<link rel="stylesheet" href="user/themes/oxygen/fonts/fontawesome/font-awesome.min.css?fp=1707143434165" media="print" onload="this.onload=null;this.media='all'">
+		<noscript>
+			<link rel="stylesheet" href="user/themes/oxygen/fonts/fontawesome/font-awesome.min.css?fp=1707143434165">
+		</noscript>
+	
+															
+		
+				
+		<script src="user/themes/oxygen/vendor/js/jquery-1.11.custom.min.js?fp=1707143434165" defer></script>
+<script src="user/themes/oxygen/vendor/js/jquery.dropotron.min.js?fp=1707143434165" defer></script>
+<script src="user/themes/oxygen/vendor/js/skel.min.js?fp=1707143434165" defer></script>
+<script src="user/themes/oxygen/vendor/js/skel-layers.min.js?fp=1707143434165" defer></script>
+<script src="user/themes/oxygen/dist/js/scripts.js?fp=1707143434165" defer data-theme-root="/s-be/grav-dev/user/themes/oxygen"></script>
+
+	
+</head>
+
+<body class="">
+
+	
+		<!-- Header Wrapper -->
+			<div class="wrapper style1">
+
+			<!-- Header -->
+				<div id="header">
+					<div class="container">
+
+						<!-- Logo -->
+							<h1><a href="http://localhost/s-be/grav-dev" id="logo">Oxygen</a></h1>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<!-- Navigation -->
+
+<ul>
+            
+                                <li class="">
+                <a href="index.html">
+                                        Home
+                </a>
+            </li>
+                                        <li class="">
+                <a href="default">
+                                        Default
+                </a>
+            </li>
+                                        <li class="has-children ">
+                <a href="sidebars">
+                                        Sidebars
+                </a>
+                <ul>
+                    
+                                <li class="">
+                <a href="sidebars/sidebar-left">
+                                        Sidebar Left
+                </a>
+            </li>
+                                        <li class="">
+                <a href="sidebars/sidebar-right">
+                                        Sidebar Right
+                </a>
+            </li>
+                                        <li class="has-children ">
+                <a href="sidebars/submenu">
+                                        Submenu
+                </a>
+                <ul>
+                    
+                                <li class="">
+                <a href="sidebars/submenu/lorem-ipsum-dolor">
+                                        Lorem ipsum dolor
+                </a>
+            </li>
+                                        <li class="">
+                <a href="sidebars/submenu/phasellus-consequat">
+                                        Phasellus consequat
+                </a>
+            </li>
+                                        <li class="">
+                <a href="sidebars/submenu/magna-phasellus">
+                                        Magna phasellus suspendisse dictum porta
+                </a>
+            </li>
+                                        <li class="">
+                <a href="sidebars/submenu/etiam-dolore-nisl">
+                                        Etiam dolore nisl
+                </a>
+            </li>
+                                        <li class="">
+                <a href="sidebars/submenu/veroeros-feugiat">
+                                        Veroeros feugiat
+                </a>
+            </li>
+                                        <li class="">
+                <a href="sidebars/submenu/phasellus-consequat">
+                                        Phasellus consequat
+                </a>
+            </li>
+            
+                </ul>
+            </li>
+                                        <li class="">
+                <a href="sidebars/lorem">
+                                        Lorem Ipsum dolor sit amet consettur paras
+                </a>
+            </li>
+            
+                </ul>
+            </li>
+                                        <li class="">
+                <a href="elements/index.html">
+                                        Elements
+                </a>
+            </li>
+                                        <li class="active">
+                <a href="contact">
+                                        Contact
+                </a>
+            </li>
+            
+        </ul>
+							</nav>
+
+					</div>
+				</div>
+
+					
+			</div>
+
+	
+	<!-- Main -->
+	<div id="main" class="wrapper style4 plain">
+
+		<!-- Content -->
+		<div id="content" class="container">
+			<section>
+				<!-- Heading -->
+<header class="major">
+	<h2>Contact</h2>
+	</header>
+				<h3>Legal Notice</h3>
+<div class="color-link-text">
+<p>Joan Q. Public<br />
+Main Road 505<br />
+50555 Capitol City</p>
+<p>Phone: 0555 - 555 555 55<br />
+E-Mail: <a href="javascript:location='mailto:%5Cu0069%5Cu006e%5Cu0066%5Cu006f%5Cu0040%5Cu006d%5Cu0061%5Cu0069%5Cu006c%5Cu002e%5Cu0063%5Cu006f%5Cu006d';void%200"><script type="text/javascript">document.write('\u0069\u006e\u0066\u006f\u0040\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a></p>
+<p>VAT ID: DE 000 000 009</p>
+<p><strong>Responsible under Press Law:</strong></p>
+<p>Julie Citizen, Hillside 9, 50555 Capitol City</p>
+</div>
+<h3 id="credits" class="pt-3">Credits</h3>
+<div class="color-link-text">
+<ul>
+<li>Theme "Oxygen" developed by <a href="https://github.com/Kittyfishfrommars">kittyfishfrommars</a> under the <a href="https://opensource.org/license/mit/">MIT License</a>, for modifications see <a href="https://github.com/Kittyfishfrommars/grav-skeleton-oxygen/blob/main/user/themes/oxygen/CHANGELOG.md">CHANGELOG</a></li>
+<li>Based on the "Solarize" Grav port by <a href="https://github.com/hughbris/grav-theme-solarize/">hughbris</a> under the <a href="https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE">MIT License</a></li>
+<li>Developed for <a href="https://getgrav.org/">Grav CMS</a> under the <a href="https://github.com/getgrav/grav/blob/master/LICENSE.txt">MIT License</a></li>
+<li>Header image created by <a href="https://deepai.org/machine-learning-model/text2img">DeepAI</a> under its <a href="https://deepai.org/terms-of-service/terms-of-service">Generated Content License</a></li>
+<li>Design inspired by <a href="https://templated.co">templated.co</a> under the <a href="https://creativecommons.org/licenses/by/3.0/">Creative Commons 3.0 Attribution License</a></li>
+<li>Font Awesome 4.0.3 by @davegandy - <a href="http://fontawesome.io">fontawesome.io</a> - @fontawesome<br />
+License - <a href="https://fontawesome.io/license">fontawesome.io/license</a> (Font: SIL OFL 1.1, CSS: MIT License)</li>
+<li>OpenSans[wdth,wght].woff2: Copyright 2020 The Open Sans Project Authors <a href="https://github.com/googlefonts/opensans">github.com/googlefonts/opensans</a> (SIL OFL 1.1)</li>
+</ul>
+</div>
+<h3 id="privacy" class="pt-3">Privacy Policy</h3>
+<div class="color-link-text">
+<p>A <a href="https://en.wikipedia.org/wiki/Privacy_policy">privacy policy</a> is a statement that discloses the ways a party gathers and uses visitors data.</p>
+<p>By default this theme does not set cookies. It does not collect IP-addresses or other visitors data. All assets incl. fonts are loaded locally. No third-party connections are established. Your hosting provider may gather statistics, the details shall be disclosed here.</p>
+</div>
+			</section>
+		</div>
+	</div>
+
+
+			<div id="footer">
+			
+		<section class="container">
+			<header class="major">
+				<h2>Stay in touch</h2>
+				<span class="byline ">In posuere eleifend <span class="nowrap">odio quisque</span> semper.</span>
+			</header>
+
+							<div class="mb-3">
+					<a href="https://kittyfishfrommars.github.io" class="button button-secondary normal icon fa-envelope-o">
+						Newsletter
+					</a>
+				</div>
+			
+							<ul class="icons  pt-3 ">
+									<li><a href="https://youtube.com" class="fa fa-youtube-play" aria-label="YouTube"><span>YouTube</span></a></li>
+									<li><a href="https://facebook.com" class="fa fa-facebook" aria-label="Facebook"><span>Facebook</span></a></li>
+									<li><a href="https://github.com/kittyfishfrommars" class="fa fa-tags" aria-label="Tickets"><span>Tickets</span></a></li>
+								</ul>
+			
+			<hr />
+		</section>
+
+					<div id="copyright">
+				<a href="contact#credits">Credits</a> | <a href="contact#privacy">Privacy Policy</a> | <a href="contact">Legal Notice</a>
+			</div>
+			</div>
+	
+					
+		<link href="user/plugins/markdown-notices/assets/notices.css" type="text/css" rel="stylesheet">
+<link href="user/plugins/form/assets/form-styles.css" type="text/css" rel="stylesheet">
+<link href="user/plugins/login/css/login.css" type="text/css" rel="stylesheet">
+
+    
+</body>
