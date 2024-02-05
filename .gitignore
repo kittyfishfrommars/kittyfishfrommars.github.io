@@ -3,6 +3,7 @@
 # ignore secret files
 user/accounts/
 user/data/accounts/
+secrets.json
 
 # ignore package managers
 node_modules
